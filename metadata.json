@@ -1,0 +1,6 @@
+{
+  "name": "NOVA FASHION",
+  "description": "Premium luxury fashion and clothing e-commerce website with curated collections, shopping cart, seamless checkout, customer portal, and complete admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
